@@ -22,7 +22,6 @@
 .App header {
   display: flex;
   flex-direction: row;
-  position: fixed;
   align-items: center;
   justify-content: space-between;
   background-color: var(--primary-color);
